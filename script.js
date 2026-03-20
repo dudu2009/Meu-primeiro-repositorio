@@ -27,7 +27,7 @@ botaoCor.addEventListener("click", function () {
     if (corAtual == 0) {
 
         // se for 0, muda a cor de fundo do card para azul claro
-        card.style.backgroundColor = "#882bb0";
+        card.style.backgroundColor = "#e4bbf5";
 
         // altera o valor da variável para 1, indicando que a cor foi trocada
         corAtual = 1;
